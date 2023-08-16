@@ -1,0 +1,40 @@
+DEBUG:root:Debug: Addition of numbers 7
+INFO:root:Info: Addition of numbers 7
+WARNING:root:warning: Addition of numbers 7
+ERROR:root:error: Multiply of numbers 16
+CRITICAL:root:Critical : Multiply of numbers 16
+2023-08-07 12:57:04,711 - DEBUG : Debug: Addition of numbers 7
+2023-08-07 12:57:04,711 - INFO : Info: Addition of numbers 7
+2023-08-07 12:57:04,711 - WARNING : warning: Addition of numbers 7
+2023-08-07 12:57:04,712 - ERROR : error: Multiply of numbers 16
+2023-08-07 12:57:04,712 - CRITICAL : Critical : Multiply of numbers 16
+07-Aug-23 13:02:41 - DEBUG : Debug: Addition of numbers 7
+07-Aug-23 13:02:41 - INFO : Info: Addition of numbers 7
+07-Aug-23 13:02:41 - WARNING : warning: Addition of numbers 7
+07-Aug-23 13:02:41 - ERROR : error: Multiply of numbers 16
+07-Aug-23 13:02:41 - CRITICAL : Critical : Multiply of numbers 16
+07-Aug-23 17:22:34 - DEBUG : Debug: Addition of numbers 7
+07-Aug-23 17:22:34 - INFO : Info: Addition of numbers 7
+07-Aug-23 17:22:34 - WARNING : warning: Addition of numbers 7
+07-Aug-23 17:22:34 - ERROR : error: Multiply of numbers 16
+07-Aug-23 17:22:34 - CRITICAL : Critical : Multiply of numbers 16
+07-Aug-23 18:16:01 - DEBUG - - root : Debug: Addition of numbers 7
+07-Aug-23 18:16:01 - INFO - - root : Info: Addition of numbers 7
+07-Aug-23 18:16:01 - WARNING - - root : warning: Addition of numbers 7
+07-Aug-23 18:16:01 - ERROR - - root : error: Multiply of numbers 16
+07-Aug-23 18:16:01 - CRITICAL - - root : Critical : Multiply of numbers 16
+07-Aug-23 18:16:12 - DEBUG - - root : Debug: Addition of numbers 7
+07-Aug-23 18:16:12 - INFO - - root : Info: Addition of numbers 7
+07-Aug-23 18:16:12 - WARNING - - root : warning: Addition of numbers 7
+07-Aug-23 18:16:12 - ERROR - - root : error: Multiply of numbers 16
+07-Aug-23 18:16:12 - CRITICAL - - root : Critical : Multiply of numbers 16
+07-Aug-23 18:16:47 - DEBUG - - root : Debug: Addition of numbers 7
+07-Aug-23 18:16:47 - INFO - - root : Info: Addition of numbers 7
+07-Aug-23 18:16:47 - WARNING - - root : warning: Addition of numbers 7
+07-Aug-23 18:16:47 - ERROR - - root : error: Multiply of numbers 16
+07-Aug-23 18:16:47 - CRITICAL - - root : Critical : Multiply of numbers 16
+07-Aug-23 18:18:34 - DEBUG - - root : Debug: Addition of numbers 7
+07-Aug-23 18:18:34 - INFO - - root : Info: Addition of numbers 7
+07-Aug-23 18:18:34 - WARNING - - root : warning: Addition of numbers 7
+07-Aug-23 18:18:34 - ERROR - - root : error: Multiply of numbers 16
+07-Aug-23 18:18:34 - CRITICAL - - root : Critical : Multiply of numbers 16

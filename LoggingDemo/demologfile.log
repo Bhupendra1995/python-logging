@@ -1,0 +1,35 @@
+07-Aug-23 17:34:59 - DEBUG : This is a debug message
+07-Aug-23 17:34:59 - INFO : This is an info message
+07-Aug-23 17:34:59 - WARNING : This is a warning message
+07-Aug-23 17:34:59 - ERROR : This is an error message
+07-Aug-23 17:34:59 - CRITICAL : This is a critical message
+07-Aug-23 17:39:16 - DEBUG : This is a debug message
+07-Aug-23 17:39:16 - INFO : This is an info message
+07-Aug-23 17:39:16 - WARNING : This is a warning message
+07-Aug-23 17:39:16 - ERROR : This is an error message
+07-Aug-23 17:39:16 - CRITICAL : This is a critical message
+07-Aug-23 17:41:06 - DEBUG - __main__ : This is a debug message
+07-Aug-23 17:41:06 - INFO - __main__ : This is an info message
+07-Aug-23 17:41:06 - WARNING - __main__ : This is a warning message
+07-Aug-23 17:41:06 - ERROR - __main__ : This is an error message
+07-Aug-23 17:41:06 - CRITICAL - __main__ : This is a critical message
+07-Aug-23 18:16:01 - DEBUG - logger_demo : This is a debug message
+07-Aug-23 18:16:01 - INFO - logger_demo : This is an info message
+07-Aug-23 18:16:01 - WARNING - logger_demo : This is a warning message
+07-Aug-23 18:16:01 - ERROR - logger_demo : This is an error message
+07-Aug-23 18:16:01 - CRITICAL - logger_demo : This is a critical message
+07-Aug-23 18:16:47 - DEBUG - logger_demo : This is a debug message
+07-Aug-23 18:16:47 - INFO - logger_demo : This is an info message
+07-Aug-23 18:16:47 - WARNING - logger_demo : This is a warning message
+07-Aug-23 18:16:47 - ERROR - logger_demo : This is an error message
+07-Aug-23 18:16:47 - CRITICAL - logger_demo : This is a critical message
+07-Aug-23 18:18:14 - DEBUG - LoggerDemo : This is a debug message
+07-Aug-23 18:18:14 - INFO - LoggerDemo : This is an info message
+07-Aug-23 18:18:14 - WARNING - LoggerDemo : This is a warning message
+07-Aug-23 18:18:14 - ERROR - LoggerDemo : This is an error message
+07-Aug-23 18:18:14 - CRITICAL - LoggerDemo : This is a critical message
+07-Aug-23 18:18:34 - DEBUG - LoggerDemo : This is a debug message
+07-Aug-23 18:18:34 - INFO - LoggerDemo : This is an info message
+07-Aug-23 18:18:34 - WARNING - LoggerDemo : This is a warning message
+07-Aug-23 18:18:34 - ERROR - LoggerDemo : This is an error message
+07-Aug-23 18:18:34 - CRITICAL - LoggerDemo : This is a critical message

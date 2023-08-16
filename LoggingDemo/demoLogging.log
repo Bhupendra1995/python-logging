@@ -1,0 +1,5 @@
+DEBUG:root:Debug: Addition of numbers 7
+INFO:root:Info: Addition of numbers 7
+WARNING:root:warning: Addition of numbers 7
+ERROR:root:error: Multiply of numbers 16
+CRITICAL:root:Critical : Multiply of numbers 16
